@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.0.0)
+  - MBProgressHUD+Add (0.0.2):
+    - MBProgressHUD (~> 1.0.0)
+  - ReactiveObjC (3.1.0)
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - MBProgressHUD+Add (~> 0.0.2)
+  - ReactiveObjC (~> 3.1.0)
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MBProgressHUD+Add: 65c4d170c083a2a800ad4470d424ad5978f324c3
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+
+PODFILE CHECKSUM: b486764c58368926ecf2d0dcdbc849096b2f119f
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+platform :ios, ‘9.3‘
+target "RACUse" do
+use_frameworks!
+pod 'ReactiveObjC', '~> 3.1.0'
+pod 'Masonry', '~> 1.1.0'
+end
